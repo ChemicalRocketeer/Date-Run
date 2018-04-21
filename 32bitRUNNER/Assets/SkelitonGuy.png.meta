@@ -1,24 +1,25 @@
 fileFormatVersion: 2
 guid: f5d39832b2e58824f94ce820712d24da
-timeCreated: 1524342591
+timeCreated: 1524343861
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: SkelitonGuy_0
-    21300002: SkelitonGuy_1
+    21300002: SkelitonGuy_Walk_2
     21300004: SkelitonGuy_2
     21300006: SkelitonGuy_3
     21300008: SkelitonGuy_4
-    21300010: SkelitonGuy_5
-    21300012: SkelitonGuy_6
-    21300014: SkelitonGuy_7
-    21300016: SkelitonGuy_8
-    21300018: SkelitonGuy_9
-    21300020: SkelitonGuy_10
-    21300022: SkelitonGuy_11
+    21300010: SkelitonGuy_Walk_1
+    21300012: SkelitonGuy_Walk_3
+    21300014: SkelitonGuy_Walk_4
+    21300016: SkelitonGuy_Walk_5
+    21300018: SkelitonGuy_Walk_6
+    21300020: SkelitonGuy_Jump_1
+    21300022: SkelitonGuy_Jump_2
     21300024: SkelitonGuy_12
     21300026: SkelitonGuy_13
     21300028: SkelitonGuy_14
+    21300030: SkelitonGuy_1
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -98,13 +99,13 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: SkelitonGuy_1
+      name: SkelitonGuy_Walk_2
       rect:
         serializedVersion: 2
         x: 45
         y: 80
         width: 13
-        height: 40
+        height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -150,7 +151,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: SkelitonGuy_5
+      name: SkelitonGuy_Walk_1
       rect:
         serializedVersion: 2
         x: 24
@@ -163,7 +164,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: SkelitonGuy_6
+      name: SkelitonGuy_Walk_3
       rect:
         serializedVersion: 2
         x: 67
@@ -176,7 +177,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: SkelitonGuy_7
+      name: SkelitonGuy_Walk_4
       rect:
         serializedVersion: 2
         x: 85
@@ -189,7 +190,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: SkelitonGuy_8
+      name: SkelitonGuy_Walk_5
       rect:
         serializedVersion: 2
         x: 106
@@ -202,7 +203,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: SkelitonGuy_9
+      name: SkelitonGuy_Walk_6
       rect:
         serializedVersion: 2
         x: 126
@@ -215,7 +216,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: SkelitonGuy_10
+      name: SkelitonGuy_Jump_1
       rect:
         serializedVersion: 2
         x: 22
@@ -228,7 +229,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: SkelitonGuy_11
+      name: SkelitonGuy_Jump_2
       rect:
         serializedVersion: 2
         x: 84
@@ -276,6 +277,19 @@ TextureImporter:
         height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SkelitonGuy_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 101
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
